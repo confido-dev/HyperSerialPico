@@ -1,4 +1,5 @@
 if (NOT PICO_PROGRAM_MAIN_ENTRY)
+
 	# User configuration for HyperSerialPico section starts here
 
 	# Some boards, such as the first Adafruit revisions, may have trouble booting properly
